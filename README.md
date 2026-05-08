@@ -5,7 +5,7 @@ This project presents an interactive Excel dashboard designed to analyze sales p
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_overview.png)
+![Dashboard](dashboard_overview.png.png)
 
 ## Key Features
 - KPI Tracking
