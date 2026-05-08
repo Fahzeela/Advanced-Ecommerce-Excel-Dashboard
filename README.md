@@ -5,7 +5,9 @@ This project presents an interactive Excel dashboard designed to analyze sales p
 
 ## Dashboard Preview
 
-![Dashboard](<img width="1699" height="810" alt="dashboard_overview png" src="https://github.com/user-attachments/assets/a9af2fe1-2e2e-4f4a-856e-f2e33af0cefd" />)
+## Dashboard Preview
+
+![Dashboard](dashboard_overview.png)
 
 
 ## Key Features
